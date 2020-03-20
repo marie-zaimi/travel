@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Satisfy&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body, h2{
+	font-family: 'Lora', serif;
+	font-size:18px;
+	margin:0px;
+}
+
+h1 {
+	font-family: 'Satisfy', cursive;
+	font-weight:bold;
+	font-size:35px;
+}
+
+a{
+	text-decoration:none;
+}
+
+body, h1, h2{
+	margin:0px;
+}
+
